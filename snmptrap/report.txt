@@ -1,0 +1,15 @@
+fqdn:hello6status:3
+fqdn:hello1status:3
+fqdn:bubbly.bth.sestatus:1
+fqdn:TROUBLE.bth.sestatus:1
+fqdn:www.bth.sestatus:3
+fqdn:www.bth.sestatus:0
+fqdn:bubbly.bth.sestatus:2
+in if loop 2
+fqdn:TROUBLE.bth.sestatus:2
+in if loop 2
+fqdn:www.bth.sestatus:2
+in if loop 2
+fqdn:www.bth.sestatus:1
+fqdn:TROUBLE.bth.sestatus:1
+fqdn:bubbly.bth.sestatus:1

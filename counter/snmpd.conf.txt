@@ -1,0 +1,6 @@
+rocommunity  public
+
+agentAddress udp:161,udp6:[::1]:161
+
+
+perl do "/home/ats/anm1.pl";
